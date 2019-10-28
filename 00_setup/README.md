@@ -111,7 +111,10 @@ $ scriptreplay -t dryrun.timing -s dryrun.script -d 3.5
 The only way to get better at the command line (or any skill) is to
 use it *regularly*.  Challenge yourself to do more mouse-free.
 
+### **ABG!**  (**A**lways **B**e **G**olfing!)
+
 Also challenge yourself to do things in as few key-presses as possible
 (like fewer strokes in golf). The command line can become quite
 onerous if you have to type too much.  Train your fingers to make the
 computer type as much as possible for you.
+
