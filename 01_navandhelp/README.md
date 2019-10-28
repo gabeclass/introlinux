@@ -1,13 +1,14 @@
 # Navigating the filesystem
 
+## Some commands
+
 ```
 whoami                         # who you are
 pwd                            # print working directory
 cd                             # used to change directory
-who                            # show all users logged on
 ```
 
-# Absolute and relative pathnames
+## Absolute and relative pathnames
 
 * Every folder on the system has an absolute "address" called its
   *absolute pathname*, beginning with the root directory `/` and
@@ -29,7 +30,31 @@ who                            # show all users logged on
   ~<user>                        # home folder of <user>
   ```
 
-# Getting information or help
+## An experiment
+
+Type:
+```shell
+$ who am i
+```
+Huh. What are the spaces doing?
+
+What about:
+```shell
+$ who registered late
+```
+
+Or:
+```shell
+$ who smells funky
+```
+
+Last one:
+```shell
+$ who knows all this about me
+```
+Ah.  What's really going on?
+
+## Getting information or help
 
 ```
 man <command>                  # displays the manual page for <command>
@@ -37,16 +62,21 @@ man <command>                  # displays the manual page for <command>
 ```
 
 It's important to understand the general *anatomy* of a command. The
-top of a `man` page explains it for any given command.
-
-What if you can't find the `man` page?
+top of a `man` page explains it for any given command.  Which command
+were we typing in the last few examples?  What does it actually do?
 
 ```
-apropos <string>               # lists man pages potential pertinent to <string>
+who                            # shows users that are logged on
+```
+
+What if you can't find a `man` page for something?
+
+```
+apropos <string>         # lists man pages potentially pertinent to <string>
 ```
 
 
-# `less` -- a pagination program
+## `less` -- a pagination program
 ```
 less <file>                    # paginate thru file
 ```
