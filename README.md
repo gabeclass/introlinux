@@ -66,10 +66,29 @@ mins) survey. When the time comes, please
 [click here](https://forms.gle/WXSRui46DRCr1uaS9).
 
 ## Resources for further study
-<!-- [Getting Started with HPC at Princeton](https://researchcomputing.princeton.edu/education/online-tutorials/getting-started)   -->
-<!-- [OnComputingWell](https://oncomputingwell.princeton.edu)   -->
-<!-- [Research Computing FAQ](https://researchcomputing.princeton.edu/faq)   -->
-<!-- [AskRC](https://researchcomputing.princeton.edu/about/contact/ask-research-computing) -->
+
+* _The Linux Command Line_ (a book by William Shotts -- [free PDF
+online](http://linuxcommand.org/tlcl.php)
+
+* _Introduction to Linux: A Hands on Guide_ (a book by Machtelt
+  Garrels -- free PDFs discoverable online; [full HTML
+  version](https://www.tldp.org/LDP/intro-linux/html/) is online)
+  
+  
+* Afternoon session (Intro to HPC on the Princeton Clusters)
+
+* Wednesday session (Command Line Power Tools -- moves faster, a bit
+  more advanced, but worth seeing even if you can't keep up this time
+  around)
+
+<!-- [Getting Started with
+HPC at
+Princeton](https://researchcomputing.princeton.edu/education/online-tutorials/getting-started)
+--> <!-- [OnComputingWell](https://oncomputingwell.princeton.edu) -->
+<!-- [Research Computing
+FAQ](https://researchcomputing.princeton.edu/faq) --> <!--
+[AskRC](https://researchcomputing.princeton.edu/about/contact/ask-research-computing)
+-->
 
 ## Getting Help Later
 
