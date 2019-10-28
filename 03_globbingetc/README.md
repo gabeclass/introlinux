@@ -6,10 +6,13 @@ effect.
 ## Globbing -- matches *filenames* or *folders* only
 
 ```
-\*       # Zero or more characters
+*       # Zero or more characters
 ?       # Exactly one character
 [abc]   # Exactly one of a,b,c
 ```
+
+This can be combined with `ls` to simplify life considerably...
+
 
 ## Brace expansion -- good for iterating like a `for` loop
 
@@ -25,4 +28,3 @@ $ echo file{05..21}
 # What happens?
 ```
 
-This can be combined with `ls` to simplify life considerably...
