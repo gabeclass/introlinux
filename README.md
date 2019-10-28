@@ -22,11 +22,11 @@ SSH. Instead, most of the workshop will rely on a web interface called
 **myAdroit** that provides a command-line shell plus a graphical file
 browser.
 
-To connect to myadroit, you must be on the Princeton **eduroam*
+To connect to myadroit, you must be on the Princeton **eduroam**
 network (the **puvisitor** network will *not* allow a connection to
-Adroit), and you must be able to Duo authenticate using your phone or
-a fob from OIT. If you were off campus, you would be establish a
-connection to Princeton's VPN first.  OIT has
+Adroit), and you must be able to Duo authenticate. If you were off
+campus, you would be establish a connection to Princeton's VPN first.
+OIT has
 [instructions](https://princeton.service-now.com/snap?id=kb_article&sys_id=ce2a27064f9ca20018ddd48e5210c745)
 for how to do that.
 
