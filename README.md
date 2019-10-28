@@ -1,5 +1,9 @@
 # Intro to the Linux Command Line
 
+## This presentation
+
+[https://github.com/gabeclass/introlinux](https://github.com/gabeclass/introlinux)
+
 ## About
 These are reference materials for the PiCSciE workshop **Intro to the
 Linux Command Line** at Princeton. Most of material is covered
@@ -63,7 +67,7 @@ of Independence:
 ## Google Survey
 Near the end of the workshop, you'll be asked to fill out a brief (3-5
 mins) survey. When the time comes, please
-[click here](https://forms.gle/WXSRui46DRCr1uaS9).
+[click here](https://forms.gle/WhoAcb1J82XVTqq38).
 
 ## Resources for further study
 
