@@ -38,6 +38,17 @@ When you're ready, please log in to myadroit
 [https://princetonuniversity.github.io/hpc_beginning_workshop/](https://princetonuniversity.github.io/hpc_beginning_workshop/)
 -->
 
+## **WARNINGS!**
+
+
+* **Linux is _case-sensitive_** (macOS may or may not be, depending on
+  how your hard drive's filesystem was configured).
+
+* **The command-line is _unforgiving_!** Type things *EXACTLY* as you
+  see them, and avoid interpreting (and don't assume the computer will
+  interpret anything for you -- be precise).
+
+
 ## For one of our exercises
 
 The URL below takes you to a plain text version of the US Declaration
