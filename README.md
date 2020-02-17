@@ -67,7 +67,7 @@ of Independence:
 ## Google Survey
 Near the end of the workshop, you'll be asked to fill out a brief (3-5
 mins) survey. When the time comes, please
-[click here](https://forms.gle/WhoAcb1J82XVTqq38).
+[click here](https://forms.gle/Z5Q4CfEh6nJH4uJQ6).
 
 ## Resources for further study
 
